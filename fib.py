@@ -12,7 +12,7 @@ def timer(func):
         execution_time = end - start
         times.append((args[0], execution_time))
         final_time = f"{end - start:0.099f}"
-        print(f"Finished in {final_time}s: f({args[0]}) -> {result}") #only print time in seconds up to the first 5 decimal places
+        print(f"Finished in {final_time}s: f({args[0]}) -> {result}")
         return result
     return wrapper
 
