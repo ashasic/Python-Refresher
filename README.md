@@ -6,3 +6,4 @@ Fib.py includes a Python script that calculates the Fibonacci sequence up to the
 
 ![Graph of the Fibonacci Sequence numbers over time, displaying its O(n) time complexity](fibonacci_graph.png)
 
+Graph of the Fibonacci Sequence numbers over time, displaying its O(n) time complexity
