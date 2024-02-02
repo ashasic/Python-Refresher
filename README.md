@@ -10,10 +10,10 @@ Graph of the Fibonacci Sequence numbers over time, displaying its O(n) time comp
 
 ## Files
 
-- [Echo Code](echo_code.png):
+- [Echo Code Screenshot](echo_code.png):
 
-- [Echo Output](echo_output.png):
+- [Echo Output Screenshot](echo_output.png):
 
-- [Fibonacci Code](fib_code.png): 
+- [Fibonacci Code Screenshot](fib_code.png): 
 
-- [Fibonacci Output](fib_output.txt):
+- [Fibonacci Output text](fib_output.txt):
